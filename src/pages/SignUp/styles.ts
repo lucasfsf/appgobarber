@@ -37,3 +37,7 @@ export const BackToSignInText = styled.Text`
   font-family: 'RobotoSlab-Regular';
   margin-left: 16px;
 `;
+
+export const FormContainer = styled.View`
+  width: 100%;
+`;
